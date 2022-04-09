@@ -1,0 +1,12 @@
+Package: SFEcmprsk
+Type: Package
+Title: SAFE Feature Screening for Lasso and Adaptive Lasso Models
+Version: 0.1
+Date: 2022-04-09
+Author: Hong Wang
+Maintainer: Hong Wang <wh@csu.edu.cn>
+Description: SAFE Feature Screening for Lasso and Adaptive Lasso Models.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp,RcppArmadillo, RcppEigen, RcppNumerical 
+RoxygenNote: 7.1.1
